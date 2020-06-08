@@ -1,3 +1,4 @@
+"""
 Copyright (c) 2020 Tyler Cone
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -17,6 +18,7 @@ furnished to do so, subject to the following conditions:
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
+"""
 
 from .util import bitwise_reverse, crc8
 from .register import Register
